@@ -1,8 +1,8 @@
-Origin: Reposi3
-Label: Reposi3
+Origin: Longhorn
+Label: LonghornRepo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Reposi3 - a cydia repo template
+Description: Longhorn Repo - a cydia repo source
